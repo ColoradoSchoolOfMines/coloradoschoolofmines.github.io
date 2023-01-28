@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Manrope";
 }
 
 .footer-container {
@@ -12,7 +12,7 @@
 
 .footer {
     width: 95%;
-    height: 30vh;
+    height: 20vh;
     background-color: whitesmoke;
     color: black;
     display: flex;
@@ -97,20 +97,24 @@
 }
 
 /* Changing the layout slightly depending on screen size */
-@media screen and (max-width: 1150px) {
-
+@media screen and (max-width: 1235px) {
+    .footer-container {
+        padding: 4rem 0 10rem 0;
+    }
 }
 
 @media screen and (max-width: 820px) {
-
+    .footer-container {
+        padding: 4rem 0 10rem 0;
+    }
 }
 
-@media screen and (max-width: 730px) {
+@media screen and (max-width: 685px) {
     .footer-container {
-        padding: 4rem 0 16rem 0;
+        padding: 4rem 0 22rem 0;
     }
 
     .footer-email-form {
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
 }
