@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'acm-docs'
-copyright = '2023, Ethan Richards'
+project = 'CS@Mines Docs'
+copyright = '2023, Mines ACM'
 author = 'Ethan Richards'
 
 # -- General configuration ---------------------------------------------------
@@ -24,3 +24,4 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'furo'
 html_static_path = ['_static']
 html_favicon = '_static/favicon.ico'
+html_title = project
