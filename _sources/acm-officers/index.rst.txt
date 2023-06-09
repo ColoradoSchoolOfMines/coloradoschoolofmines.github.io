@@ -7,5 +7,4 @@ Lorem ipsum
    :maxdepth: 2
    :caption: Contents:
 
-   coolbeans.rst
-
+   advertising
