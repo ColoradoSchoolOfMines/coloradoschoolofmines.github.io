@@ -34,6 +34,6 @@ Although this job is primarily done by the current president
 and faculty sponsor, officers and members are always encouraged 
 to interact with the CS\@Mines department.
 
-Department events happen often that can be advertised or
-even helped hosted by ACM. Professors are also usually
+Department events happen often that can be advertised by or
+co-hosted with ACM. Professors are also usually
 willing to do tech talks on their research or other topics.
