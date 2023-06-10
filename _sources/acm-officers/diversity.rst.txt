@@ -15,12 +15,11 @@ what we do and also ask what they want to get from the club.
 
 If you see a student sitting by themselves at a meeting, 
 ask for their name and make an effort to get to know them.
-People are friendly (yes, even Computer Science majors)!
+People are friendly - yes, even Computer Science majors!
 
 Social meetings
 ---------------
 
-One area where ACM has lacked in the past is in social events.
 Consider hosting social events or simply meetings where people
 talk face-to-face instead of being in front of a laptop.
 

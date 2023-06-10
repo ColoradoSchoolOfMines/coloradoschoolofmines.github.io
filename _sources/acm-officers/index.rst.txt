@@ -12,7 +12,6 @@ View our extensive list of officer `roles & responsibilities <https://docs.googl
    advertising
    communication
    diversity
-   events
-   hackathons
    projects
    talks
+   events
