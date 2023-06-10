@@ -19,6 +19,9 @@ from the club, but here are some general guidelines.
   welcome to work on personal projects, but official club sponsored
   projects should be open to everybody.
 
+Demo projects at the start of meetings and consider showing off projects 
+further at our Final Project Demo Day or even the annual Computing Innovation Fair.
+
 Project Lifecycle
 -----------------
 
@@ -36,6 +39,10 @@ ACM projects naturally lose interest near the end of the semester
 due to everybody getting busy. This is ok! Just make sure that
 graduating students pass on their projects and confirm that
 continuing students want to continue their projects.
+
+As officers running project meetings, be less worried about the production
+of a final product and instead focus on people hanging out and working on 
+the project - this is where the fun and learning happens!
 
 Meeting Food
 ------------
