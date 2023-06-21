@@ -46,3 +46,6 @@ Some good things to bring:
 - Cool computers (ask previous officers)
 
 - QR codes for the website/Discord
+
+In the past, when we have brought computers to hook up to Mines-provided generators,
+we typically need 200W (organizers will ask for this).
