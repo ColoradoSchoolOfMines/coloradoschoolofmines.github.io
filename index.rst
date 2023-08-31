@@ -12,4 +12,5 @@ free computer science resources.
 
    projects
    resources
+   speakers
    acm-officers/index
