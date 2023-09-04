@@ -18,3 +18,4 @@ Encourage people to talk to one another (other than just their friends) or expec
    projects
    talks
    events
+   transitions
